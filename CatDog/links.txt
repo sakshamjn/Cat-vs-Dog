@@ -1,0 +1,10 @@
+https://github.com/Yatheen07/cat-dog-image-classifier/blob/master/classifier.py
+
+
+
+
+https://www.geeksforgeeks.org/image-classifier-using-cnn/
+
+
+
+https://bulkresizephotos.com/en

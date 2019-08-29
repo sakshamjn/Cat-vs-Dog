@@ -1,0 +1,7 @@
+tensorboard --logdir=foo:C:\Users\knapseck\Desktop\Dev\Cov_Net\log
+
+
+
+
+
+!unzip test.zip -d data
